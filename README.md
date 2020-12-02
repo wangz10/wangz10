@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm [Zichen](https://wangz10.github.io/) 👋
 
 <!--
 **wangz10/wangz10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

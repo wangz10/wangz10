@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Machine Learning in Healthcare
-- 🌱 I’m currently learning pytorch, causal inference
+- 🌱 I’m currently learning causal inference
 
 [![Zichen's github stats](https://github-readme-stats.vercel.app/api?username=wangz10&include_all_commits=true&show_icons=true&count_private=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
